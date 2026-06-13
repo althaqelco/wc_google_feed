@@ -6,7 +6,7 @@ endpoint and outputs a valid
 [Google Merchant Center](https://developers.google.com/shopping-content) XML feed
 (RSS 2.0 + `g:` namespace).
 
-Originally developed for the [CairoVolt](https://cairovolt.com/en/soundcore/audio)
+Originally developed for the [shop audio accessories online](https://cairovolt.com/en/soundcore/audio)
 electronics store catalog — which stocks Soundcore audio gear, Anker charging
 accessories, and related tech products — then extracted as a reusable module for
 any WooCommerce-powered shop.
