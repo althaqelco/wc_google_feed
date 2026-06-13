@@ -1,5 +1,5 @@
 {
-  "name": "@cairovolt/wc_google_feed",
+  "name": "@althaqelco/wc-google-feed",
   "version": "1.0.0",
   "exports": "./mod.ts",
   "tasks": {
