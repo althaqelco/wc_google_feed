@@ -2,6 +2,7 @@
   "name": "@althaqelco/wc-google-feed",
   "version": "1.0.0",
   "exports": "./mod.ts",
+    "license": "MIT",
   "tasks": {
     "check": "deno check mod.ts feed.ts types.ts",
     "lint": "deno lint",
